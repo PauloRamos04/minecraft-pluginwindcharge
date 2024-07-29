@@ -1,0 +1,8 @@
+name: PluginWindCharge
+version: 1.0-SNAPSHOT
+main: host.enxada.plugin.PluginWindCharged
+api-version: 1.21
+commands:
+  windcharge:
+    description: Recebe um WindCharge modificado
+    usage: /windcharge
